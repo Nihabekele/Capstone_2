@@ -42,7 +42,7 @@ Maryland             Shruti Reddy       9 stores
 
 
 
-##### **Files in This Project**
+#### **Files in This Project**
 
 ###### &#x20;
 
@@ -78,7 +78,7 @@ README.md - This file
 
 
 
-##### &#x20;**What I Analyzed**
+#### &#x20;**What I Analyzed**
 
 
 
@@ -106,7 +106,7 @@ README.md - This file
 
 
 
-##### &#x20;**Key Findings**
+#### &#x20;**Key Findings**
 
 
 
@@ -130,7 +130,7 @@ README.md - This file
 
 
 
-##### &#x20;**Tools Used**
+#### &#x20;**Tools Used**
 
 
 
@@ -146,7 +146,7 @@ README.md - This file
 
 
 
-##### &#x20;**Video Demo**
+#### &#x20;**Video Demo**
 
 
 
